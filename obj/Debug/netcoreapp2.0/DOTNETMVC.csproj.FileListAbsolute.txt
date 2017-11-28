@@ -1,0 +1,10 @@
+C:\Projetos\DOTNETMVC\bin\Debug\netcoreapp2.0\DOTNETMVC.deps.json
+C:\Projetos\DOTNETMVC\bin\Debug\netcoreapp2.0\DOTNETMVC.runtimeconfig.json
+C:\Projetos\DOTNETMVC\bin\Debug\netcoreapp2.0\DOTNETMVC.runtimeconfig.dev.json
+C:\Projetos\DOTNETMVC\bin\Debug\netcoreapp2.0\DOTNETMVC.dll
+C:\Projetos\DOTNETMVC\bin\Debug\netcoreapp2.0\DOTNETMVC.pdb
+C:\Projetos\DOTNETMVC\obj\Debug\netcoreapp2.0\DOTNETMVC.csproj.CoreCompileInputs.cache
+C:\Projetos\DOTNETMVC\obj\Debug\netcoreapp2.0\DOTNETMVC.AssemblyInfoInputs.cache
+C:\Projetos\DOTNETMVC\obj\Debug\netcoreapp2.0\DOTNETMVC.AssemblyInfo.cs
+C:\Projetos\DOTNETMVC\obj\Debug\netcoreapp2.0\DOTNETMVC.dll
+C:\Projetos\DOTNETMVC\obj\Debug\netcoreapp2.0\DOTNETMVC.pdb

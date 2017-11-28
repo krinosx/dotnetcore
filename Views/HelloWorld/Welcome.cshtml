@@ -1,0 +1,19 @@
+@model IEnumerable<DOTNETMVC.Models.CotacaoModel>
+
+<table class="table">
+  <tr>
+    <th>Codigo Negocio</th>
+    <th>Preco</th>
+  </tr>
+  @foreach (var item in Model)
+  {
+    <tr>
+      <td>
+        @Html.DisplayFor(modelItem => item.CodigoNegocio)
+      </td>
+      <td>
+        @Html.DisplayFor(modelItem => item.price)
+      </td>
+    </tr>
+  }
+</table>
