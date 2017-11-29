@@ -1,0 +1,14 @@
+C:\Projetos\DOTNETMVC
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=DOTNETMVC
+--content-root=C:\Projetos\DOTNETMVC
+--file=C:\Projetos\DOTNETMVC\Views\HelloWorld\Index.cshtml
+--file=C:\Projetos\DOTNETMVC\Views\HelloWorld\Welcome.cshtml
+--file=C:\Projetos\DOTNETMVC\Views\Home\About.cshtml
+--file=C:\Projetos\DOTNETMVC\Views\Home\Contact.cshtml
+--file=C:\Projetos\DOTNETMVC\Views\Home\Index.cshtml
+--file=C:\Projetos\DOTNETMVC\Views\Shared\Error.cshtml
+--file=C:\Projetos\DOTNETMVC\Views\Shared\_Layout.cshtml
+--file=C:\Projetos\DOTNETMVC\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Projetos\DOTNETMVC\Views\_ViewImports.cshtml
+--file=C:\Projetos\DOTNETMVC\Views\_ViewStart.cshtml

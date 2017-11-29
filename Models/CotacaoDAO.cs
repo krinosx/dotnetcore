@@ -9,7 +9,15 @@ namespace DOTNETMVC.Models
     {
         public string ConnectionString { get; set; }
 
-        public CotacaoDAO( string ConnectionString ){
+        public CotacaoDAO(){
+
+            string user = Environment.GetEnvironmentVariable("DATABASE_USER");
+            string pass = Environment.GetEnvironmentVariable("DATABASE_PASS");
+            string host = Environment.GetEnvironmentVariable("DATABASE_HOST");
+            string basename = Environment.GetEnvironmentVariable("DATABASE_BASE");
+
+            this.ConnectionString = "server=" + host + ";port=3306;database="+ basename + ";user=" + user + ";password=" + pass;
+
             this.ConnectionString = ConnectionString;
         } 
 

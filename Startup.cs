@@ -22,7 +22,10 @@ namespace DOTNETMVC
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
-            services.Add( new ServiceDescriptor(typeof(DOTNETMVC.Models.CotacaoDAO), new DOTNETMVC.Models.CotacaoDAO(Configuration.GetConnectionString("DefaultConnection"))));
+
+            Environment.GetEnvironmentVariable("");
+
+            services.Add( new ServiceDescriptor(typeof(DOTNETMVC.Models.CotacaoDAO), new DOTNETMVC.Models.CotacaoDAO()));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
